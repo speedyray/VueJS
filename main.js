@@ -33,8 +33,8 @@ var app = new Vue({
 				dimensions: "large:24- 28",
 			},
 		  ],
-		  cart: 0,
-		  cart_d: 0
+		  cart: 0
+		  
 	},
       methods: {
 		  addToCart(){
